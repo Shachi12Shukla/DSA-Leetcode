@@ -44,7 +44,5 @@ int main(){
     string word2 = "A2I";
     cout << isValid(word2) << endl;
 
-
-
 return 0;
 }
