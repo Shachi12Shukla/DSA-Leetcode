@@ -3,7 +3,6 @@
 
 #### Feel free to fork the repo, improve solutions, or add explanations! Contributions are welcome.
 
-##### MIT License © [Shachi Shukla]
 
 
 
