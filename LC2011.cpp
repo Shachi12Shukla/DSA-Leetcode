@@ -9,9 +9,11 @@ int finalValueAfterOperations(vector<string>& operations){
 
         string op = operations[i];
         // increament : X++ or ++X
+        
         if(op == "X++" || op == "++X"){
             X++;
         }
+
         else{
             // X-- or --X
             X--;
